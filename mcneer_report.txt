@@ -1,0 +1,7 @@
+1. What is the average number of trials it took you to find a particular pre-image based on 15 experiments where n=2?
+    -  69,134 trials on average 
+2. What is the average number of trials it took you to find a collision based on 15 experiments where n=2? 
+    -  46,481 trials on average
+3. Is it easier to find a collision or find a pre-image using brute force?
+    -  Collision is easier to find when compared pre-image using brute force.  To put it concisely, a collision 
+       attack is not restricted by set values (unlike pre-image), so any two values can collide. 
